@@ -1,5 +1,5 @@
 <div align=center><h1> tl1l1l1s </h1>
-<h2> ✨Now Learning </h2>
+<p> ✨Now Learning </p>
   <p> HTML, JAVA Script, Python3 </p>
   
 <h3> 📞Contact </h3>
