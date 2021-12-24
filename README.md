@@ -1,4 +1,4 @@
-<div align=center><p style="font-size:50px;"> tl1l1l1s </p>
+<div align=center><p font-size:50px> tl1l1l1s </p>
 
 <p> ✨Now Learning </p>
   <p> HTML, JAVA Script, Python3 </p>
