@@ -25,4 +25,6 @@ Committed to enhancing UX and building robust infrastructures for flawless appli
 ---
 <div align = "center">
  <a href="https://github.com.tl1l1l1s" target="_blank" ><img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&link=https://github.com.tl1l1l1s"/></a> <a href="mailto:s2oo1og24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> 
- <a href="https://www.linkedin.com/in/2oo1og24" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-007EC5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/2oo1og24/"/> </a>  <a href="https://velog.io/@tl1l1l1s" target="_blank"> <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@tl1l1l1s"/></a> 🇰🇷 🇺🇸 🇯🇵 </div>
+ <a href="https://www.linkedin.com/in/2oo1og24" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-007EC5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/2oo1og24/"/> </a> 
+ <!-- <a href="https://velog.io/@tl1l1l1s" target="_blank"> <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@tl1l1l1s"/></a> -->
+ <a href="https://until.blog/@tl1l1l1s" target="_blank"> <img src="https://img.shields.io/badge/until-000000?style=flat-square&logo=until&logoColor=white&link=https://until.blog/@tl1l1l1s"/></a> 🇰🇷 🇺🇸 🇯🇵 </div>
