@@ -1,8 +1,4 @@
-### Software Engineer
-Committed to enhancing UX and building robust infrastructures for flawless application performance. Passionate about solving algorithmic challenges and dedicated to continuous learning.
-
-
-🔖 My skills
+🔖 Skills
 
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
@@ -14,7 +10,7 @@ Committed to enhancing UX and building robust infrastructures for flawless appli
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
 
-📈 Stats
+📈 Statistics
 <div align="center">
  
 <!-- ![tl1l1l1s's GitHub stats](https://github-readme-stats.vercel.app/api?username=tl1l1l1s&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=swift&count_private=true) &nbsp; -->
