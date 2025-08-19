@@ -15,6 +15,7 @@
  
 <!-- ![tl1l1l1s's GitHub stats](https://github-readme-stats.vercel.app/api?username=tl1l1l1s&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=swift&count_private=true) &nbsp; -->
 ![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tl1l1l1s&layout=compact&hide_border=true&theme=swift)  &nbsp;
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shj721553)](https://solved.ac/shj721553)
 </div>
 
 ---
