@@ -1,23 +1,45 @@
-🔖 Skills
-
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-
-📈 Statistics
 <div align="center">
- 
-<!-- ![tl1l1l1s's GitHub stats](https://github-readme-stats.vercel.app/api?username=tl1l1l1s&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=swift&count_private=true) &nbsp; -->
-![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tl1l1l1s&layout=compact&hide_border=true&theme=swift)  &nbsp;
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shj721553)](https://solved.ac/shj721553) -->
+  <h1> @tl1l1l1s </h1>
+  <p> <b>Backend Engineering & Database Architecture</b> </p>
+  <a href="mailto:s2oo1og24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/tlsdbsvvl/" target="_blank"><img src="https://img.shields.io/badge/instagram-FFFFFF?style=flat-square&logo=instagram&logoColor=FF0069"/></a> 
+<br/>
+
+<div align="center">
+  <h3> Daily Activity </h3>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tl1l1l1s/tl1l1l1s/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tl1l1l1s/tl1l1l1s/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tl1l1l1s/tl1l1l1s/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
----
-<div align = "center">
- <a href="https://github.com/tl1l1l1s" target="_blank" ><img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&link=https://github.com.tl1l1l1s"/></a> <a href="mailto:s2oo1og24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> 
- <a href="https://www.linkedin.com/in/2oo1og24" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-007EC5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/2oo1og24/"/> </a> 
- <a href="https://velog.io/@tl1l1l1s" target="_blank"> <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@tl1l1l1s"/></a> 🇰🇷 🇺🇸 🇯🇵 </div>
+<br/>
+
+<div align="center">
+ <h3>Tech Stack</h3>
+ <br/>
+ <img src="https://skillicons.dev/icons?i=java,spring,mysql" height="55" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="52" alt="oracle logo" />
+ <img src="https://skillicons.dev/icons?i=aws" height="55" />
+ <br/>
+ <img src="https://skillicons.dev/icons?i=js,ts,react" height="55" />
+</div>
+
+<br/>
+
+<div align="center">
+ <h3>Stats & Blog</h3> 
+ <br/>
+ <a href="https://solved.ac/shj721553">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=shj721553" height="130" />
+ </a>
+ <a href="https://github.com/tl1l1l1s/velog-readme-stats">
+   <img src="https://velog-readme-stats.vercel.app/api?name=tl1l1l1s&theme=cyan" />
+ </a>
+  
+</div>
+<!-- ![tl1l1l1s's GitHub stats](https://github-readme-stats.vercel.app/api?username=tl1l1l1s&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=swift&count_private=true) &nbsp;
+![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tl1l1l1s&layout=compact&hide_border=true&theme=swift) &nbsp;
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shj721553)](https://solved.ac/shj721553) -->
