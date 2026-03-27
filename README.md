@@ -3,23 +3,16 @@
   <p> <b>Backend Engineering & Database Architecture</b> </p>
   <a href="mailto:s2oo1og24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/tlsdbsvvl/" target="_blank"><img src="https://img.shields.io/badge/instagram-FFFFFF?style=flat-square&logo=instagram&logoColor=FF0069"/></a> 
-<br/>
 
 <div align="center">
   <h3> Daily Activity </h3>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tl1l1l1s/tl1l1l1s/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tl1l1l1s/tl1l1l1s/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tl1l1l1s/tl1l1l1s/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/tl1l1l1s/tl1l1l1s/output/pacman-contribution-graph.svg?v=1" alt="pacman contribution graph">
 </div>
 
 <br/>
 
 <div align="center">
  <h3>Tech Stack</h3>
- <br/>
  <img src="https://skillicons.dev/icons?i=java,spring,mysql" height="55" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="52" alt="oracle logo" />
  <img src="https://skillicons.dev/icons?i=aws" height="55" />
@@ -31,7 +24,6 @@
 
 <div align="center">
  <h3>Stats & Blog</h3> 
- <br/>
  <a href="https://solved.ac/shj721553">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=shj721553" height="130" />
  </a>
