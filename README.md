@@ -1,6 +1,6 @@
 <div align="center">
   <h1> @tl1l1l1s </h1>
-  <p> <b>Backend Engineering & Database Architecture</b> </p>
+  <p> <b>Software Engineering & Database Architecture</b> </p>
   <a href="mailto:s2oo1og24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/tlsdbsvvl/" target="_blank"><img src="https://img.shields.io/badge/instagram-FFFFFF?style=flat-square&logo=instagram&logoColor=FF0069"/></a> 
 
